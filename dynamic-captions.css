@@ -1,0 +1,243 @@
+.tp-caption.Flexform_BigOrange {
+position:absolute;
+color:#fb3c2d!important;
+font-size:52px;
+line-height:52px;
+margin:0px;
+border-width:0px;
+border-style:none;
+text-align:center;
+white-space:nowrap;
+padding:0px 0px;
+padding-top:0px;
+font-family:"Din Text Pro Regular", Verdana, sans-serif;
+font-size-adjust:0.5;
+font-weight:normal;
+font-style:normal;
+}
+
+.tp-caption.Flexform_giant {
+position:absolute;
+color:#fb3c2d!important;
+text-shadow:none;
+font-size:140px;
+line-height:40px;
+margin:0px;
+border-width:0px;
+border-style:none;
+white-space:nowrap;
+padding:0px 0px;
+padding-top:0px;
+font-family:"Din Text Pro Regular", Verdana, sans-serif;
+font-size-adjust:0.5;
+font-weight:normal;
+font-style:normal;
+}
+
+.tp-caption.Flexform_h1 {
+position:absolute;
+color:#222!important;
+text-shadow:none;
+font-size:30px;
+line-height:40px;
+margin:0px;
+border-width:0px;
+border-style:none;
+white-space:nowrap;
+padding:0px 0px;
+padding-top:0px;
+font-family:"Din Text Pro Regular", Verdana, sans-serif;
+font-size-adjust:0.5;
+font-weight:normal;
+font-style:normal;
+}
+
+.tp-caption.Flexform_Big {
+position:absolute;
+color:#222!important;
+font-size:48px;
+line-height:52px;
+margin:0px;
+border-width:0px;
+border-style:none;
+white-space:nowrap;
+padding:0px 0px;
+padding-top:0px;
+font-family:"Din Text Pro Regular", Verdana, sans-serif;
+font-size-adjust:0.5;
+font-weight:normal;
+font-style:normal;
+}
+
+.tp-caption.Flexform_BigCentre {
+position:absolute;
+color:#1bbeb4!important;
+font-size:48px;
+line-height:52px;
+margin:0px;
+border-width:0px;
+border-style:none;
+text-align:center;
+white-space:nowrap;
+padding:0px 0px;
+padding-top:0px;
+font-family:"Din Text Pro Regular", Verdana, sans-serif;
+font-size-adjust:0.5;
+font-weight:normal;
+font-style:normal;
+}
+
+.tp-caption.Flexform_BigCentreDark {
+position:absolute;
+color:#222!important;
+font-size:48px;
+line-height:52px;
+margin:0px;
+border-width:0px;
+border-style:none;
+text-align:center;
+white-space:nowrap;
+padding:0px 0px;
+padding-top:0px;
+font-family:"Din Text Pro Regular", Verdana, sans-serif;
+font-size-adjust:0.5;
+font-weight:normal;
+font-style:normal;
+}
+
+.tp-caption.Flexform_BigWhitey {
+position:absolute;
+color:#fff!important;
+font-size:48px;
+line-height:52px;
+margin:0px;
+border-width:0px;
+border-style:none;
+white-space:nowrap;
+padding:0px 0px;
+padding-top:0px;
+font-family:"Din Text Pro Regular", Verdana, sans-serif;
+font-size-adjust:0.5;
+font-weight:normal;
+font-style:normal;
+}
+
+.tp-caption.Flexform_BigWhiteyBold {
+position:absolute;
+color:#fff!important;
+font-size:48px;
+line-height:52px;
+margin:0px;
+border-width:0px;
+border-style:none;
+white-space:nowrap;
+padding:0px 0px;
+padding-top:0px;
+font-family:"Din Text Pro Regular", Verdana, sans-serif;
+font-size-adjust:0.5;
+font-weight:bold;
+font-style:normal;
+}
+
+.tp-caption.Flexform_Sub {
+position:absolute;
+color:#222!important;
+font-size:18px;
+line-height:24px;
+margin:0px;
+border-width:0px;
+border-style:none;
+white-space:nowrap;
+padding:0px 0px;
+padding-top:0px;
+font-family:"Din Text Pro Regular", Verdana, sans-serif;
+font-size-adjust:0.5;
+font-weight:normal;
+font-style:normal;
+}
+
+.tp-caption.Flexform_Sub_centre {
+position:absolute;
+color:#222!important;
+font-size:18px;
+line-height:24px;
+margin:0px;
+border-width:0px;
+border-style:none;
+text-align:center;
+white-space:nowrap;
+padding:0px 0px;
+padding-top:0px;
+font-family:"Din Text Pro Regular", Verdana, sans-serif;
+font-size-adjust:0.5;
+font-weight:normal;
+font-style:normal;
+}
+
+.tp-caption.Flexform_Sub_white {
+position:absolute;
+color:#fff!important;
+font-size:18px;
+line-height:24px;
+margin:0px;
+border-width:0px;
+border-style:none;
+white-space:nowrap;
+padding:0px 0px;
+padding-top:0px;
+font-family:"Din Text Pro Regular", Verdana, sans-serif;
+font-size-adjust:0.5;
+font-weight:normal;
+font-style:normal;
+}
+
+.tp-caption.Flexform_Sub_centre_white {
+position:absolute;
+color:#fff!important;
+font-size:18px;
+line-height:24px;
+margin:0px;
+border-width:0px;
+border-style:none;
+text-align:center;
+white-space:nowrap;
+padding:0px 0px;
+padding-top:0px;
+font-family:"Din Text Pro Regular", Verdana, sans-serif;
+font-size-adjust:0.5;
+font-weight:normal;
+font-style:normal;
+}
+
+.tp-caption.very_big_black {
+position:absolute;
+color:#000;
+text-shadow:none;
+font-weight:700;
+font-size:60px;
+line-height:60px;
+font-family:Arial;
+margin:0px;
+border-width:0px;
+border-style:none;
+white-space:nowrap;
+padding:0px 4px;
+padding-top:1px;
+background-color:#fff;
+}
+
+.tp-caption.boxshadow {
+-moz-box-shadow:0px 0px 20px rgba(0, 0, 0, 0.5);
+-webkit-box-shadow:0px 0px 20px rgba(0, 0, 0, 0.5);
+box-shadow:0px 0px 20px rgba(0, 0, 0, 0.5);
+}
+
+.tp-caption.black {
+color:#000;
+text-shadow:none;
+}
+
+.tp-caption.noshadow {
+text-shadow:none;
+}
+
